@@ -1,4 +1,4 @@
-Group;Title;Image;Description;Address;Latitude;Longitude;Found Address;Match Quality;Source
-a;VODAFONE / NOS;https://www.vodafone.pt/;PDO PARTILHADO;321; 38.77267 ;-9,12176   ;123;Exact;US Census
-a;VODAFONE / NOS;https://www.vodafone.pt/;PDO PARTILHADO;321; 38.77340 ;-9,12091   ;123;Exact;US Census
-a;VODAFONE / NOS;https://www.edx.org/sites/default/files/trinity1.jpg;PDO PARTILHADO;321; 38.77340 ;-9,12038   ;123;Exact;US Census
+Title;Latitude;Longitude;Match Quality;Source
+VODAFONE/NOS 1;38.77267;-9,12176;Exact;Nuno Flora
+VODAFONE/NOS 2;38.77340;-9,12091;Exact;Nuno Flora
+VODAFONE/NOS 3;38.77340;-9,12038;Exact;Nuno Flora
