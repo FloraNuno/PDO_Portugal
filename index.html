@@ -91,8 +91,7 @@ var greenIcon = L.icon({
       var row = data[i];
 
       var marker = L.marker([row.Latitude, row.Longitude], {
-        icon: greenIcon,
-        opacity: 1
+        icon: greenIcon
       }).bindPopup(row.Title);
       
       marker.addTo(map);
